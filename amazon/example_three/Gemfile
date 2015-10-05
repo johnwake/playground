@@ -1,0 +1,9 @@
+source 'http://rubygems.org'
+ruby '2.2.1'
+
+gem 'cucumber'
+gem 'gherkin'
+gem 'selenium-webdriver'
+gem 'watir-webdriver'
+gem 'pry'
+gem 'rspec'
